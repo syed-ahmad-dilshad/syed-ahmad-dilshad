@@ -1,47 +1,114 @@
-<h1 align="center">Hi 👋, I'm Ahmad Dilshad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Ahmad Dilshad   <svg role="none" aria-hidden="true" class="pv-text-details__verified-badge-icon v-align-middle" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="verified-medium">
+<!---->    
+    <use href="#verified-medium" width="24" height="24"></use>
+</svg>
+**Founder & CEO @ SMMpro**  
+Digital Growth Strategist | Ads Expert | Full-Stack Marketer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-ahmad-dilshad&label=Profile%20views&color=0e75b6&style=flat" alt="syed-ahmad-dilshad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-ahmad-dilshad" alt="syed-ahmad-dilshad" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-ahmad-dilshad)
+[![Website](https://img.shields.io/badge/Website-SMMpro.pk-brightgreen?style=flat)](https://smmpro.pk)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/923116100629)
+[![Email](https://img.shields.io/badge/Email-support@smmpro.pk-red?style=flat&logo=gmail)](mailto:support@smmpro.pk)
 
-- 🔭 I’m currently working on [SMMpro](https://smmpro.pk/)
+🌐 **Driving Digital Transformation Across Platforms**  
+🚀 Specializing in ROI-focused strategies for SEO, Social Media, WhatsApp Business API, Web Development & Multi-Channel Advertising
 
-- 🌱 I’m currently learning **Php, Android Studio**
+---
 
-- 👯 I’m looking to collaborate on [Dragon Mart](https://dragonmart.pk/)
+## 🔧 Core Services  
+**Digital Growth Solutions**  
+▸ Telecommunications • Cybersecurity • Computer Networking  
+▸ Web Design & Development • SEO • Email Marketing  
+▸ Digital Advertising • IT Consulting • Social Media Management  
 
-- 🤝 I’m looking for help with [Hoxtag](https://hoxtag.com/)
+**Platform Expertise**  
+```bash
+Google Ads | Meta Ads | LinkedIn Marketing | WhatsApp Business API
+```
 
-- 📝 I regularly write articles on [https://techblendx.com/](https://techblendx.com/)
+---
 
-- 💬 Ask me about **Php, Html, CSS, Servers, SMM**
+## 🎓 Education  
+**Muhammad Nawaz Sharif University of Engineering & Technology**  
+`Oct 2021 - Oct 2025` | BSc Computer Science (CGPA: 3.2/4.0)  
 
-- 📫 How to reach me **syedahmaddilshad@gmail.com**
+**Misali Zakaria Girls Higher Secondary School**  
+`Dec 2019 - Dec 2021` | Intermediate Computer Science (Grade A)  
 
-- ⚡ Fun fact **Crafting code solo and collaborating together.**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🏆 Certifications & Accreditations  
+| Provider | Certification | Skills Gained |
+|----------|----------------|---------------|
+| ![Meta](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta) | WhatsApp Business Platform Developer | WhatsApp API Integration |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google) | Digital Marketing & E-commerce Specialization | Omnichannel Strategy |
+| ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot) | SEO Certification | Technical SEO Audits |
+| ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j) | Graph Database Professional | Data Relationship Mapping |
+| ![Semrush](https://img.shields.io/badge/Semrush-FFFFFF?style=flat&logo=semrush) | Advanced Link Building | SEO Authority Development |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad-dilshad-82b988200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-dilshad-82b988200" height="30" width="40" /></a>
-<a href="https://fb.com/syed.ahmad.dilshad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed.ahmad.dilshad1" height="30" width="40" /></a>
-<a href="https://instagram.com/syed_ahmad_dilshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_ahmad_dilshad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techblendx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techblendx" height="30" width="40" /></a>
-<a href="/https://techblendx.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://techblendx.com/rss" height="30" width="40" /></a>
-</p>
+*Full certification portfolio available on [LinkedIn](https://www.linkedin.com/in/syed-ahmad-dilshad/details/certifications/)*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ahmaddilshad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmaddilshad" /></a></p><br><br>
+## 💼 Professional Journey  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-ahmad-dilshad&show_icons=true&locale=en&layout=compact" alt="syed-ahmad-dilshad" /></p>
+### 🚀 SMMpro (Founder & CEO)  
+`May 2024 - Present` | Pakistan  
+- Scaled digital agency to 40% YOY revenue growth through multi-platform strategies  
+- Pioneer in WhatsApp Business API implementations for SMBs  
+- Architected client success framework blending SEO, Social Media & Email Marketing  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-ahmad-dilshad&show_icons=true&locale=en" alt="syed-ahmad-dilshad" /></p>
+### 🌐 Intelliman (Senior Web Developer)  
+`Nov 2024 - Present` | Remote  
+- Led development of high-conversion WordPress ecosystems  
+- Implemented SEO strategies increasing organic traffic by 58%  
+- Technical stack: React | Node.js | GraphQL | AWS  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-ahmad-dilshad&" alt="syed-ahmad-dilshad" /></p>
+### 📈 KMY Academy (WordPress & SEO Lead)  
+`Oct 2024 - Present` | On-site  
+- Built LMS platform supporting 10,000+ global students  
+- Integrated Stripe/PayPal for Islamic education platform  
+- Drove 3x organic growth through content optimization  
+
+---
+
+## 🛠 Technical Arsenal  
+**Marketing Stack**  
+```python
+SEO: "SEMrush, Ahrefs, Screaming Frog" 
+Ads: "Google Ads, Meta Ads Manager, LinkedIn Campaigns"
+Automation: "Zapier, Make.com, ActiveCampaign"
+```
+
+**Development Toolkit**  
+```javascript
+Frontend: React, HTML5, CSS3, WordPress
+Backend: Node.js, Python, REST APIs
+DB: MySQL, Neo4j, MongoDB
+```
+
+---
+
+📌 **Operational Base**  
+Basti Haji Block P/O Ismailabad Multan  
+📅 DOB: May 3, 2002  
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://www.instagram.com/syed_ahmad_dilshad)
+[![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=flat&logo=facebook)](https://www.facebook.com/SMMProOfficial/)
+```
+
+This Markdown features:
+1. Dynamic badge links for key platforms
+2. Clean section organization with code-block visual elements
+3. Responsive design elements that work well on GitHub
+4. Skill visualization through shields.io badges
+5. Concise yet comprehensive professional narrative
+6. Technical stack visualization using code blocks
+7. Clear CTAs for profile visitors
+
+To use:
+1. Copy to your README.md
+2. Add profile picture using `![Alt text](image-url)`
+3. Adjust metrics/achievements as needed
+4. Add any project embeds/CRUD operations if desired
