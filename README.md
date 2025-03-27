@@ -1,7 +1,5 @@
-# Ahmad Dilshad   <svg role="none" aria-hidden="true" class="pv-text-details__verified-badge-icon v-align-middle" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="verified-medium">
-<!---->    
-    <use href="#verified-medium" width="24" height="24"></use>
-</svg>
+# Ahmad Dilshad   
+
 **Founder & CEO @ SMMpro**  
 Digital Growth Strategist | Ads Expert | Full-Stack Marketer
 
