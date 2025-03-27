@@ -1,112 +1,151 @@
-# Ahmad Dilshad   
 
-**Founder & CEO @ SMMpro**  
-Digital Growth Strategist | Ads Expert | Full-Stack Marketer
+<div align="center">
+  <img src="https://i.pinimg.com/280x280_RS/ca/69/ba/ca69ba967236e677d87603fc479087ad.jpg" width="200" height="200" alt="Ahmad Dilshad"/>
+  <h1>Ahmad Dilshad</h1>
+  
+[![Twitter Follow](https://img.shields.io/badge/Follow-%40SMMProOfficial-1DA1F2?style=for-the-badge&logo=twitter)](https://facebook.com/SMMProOfficial)
+[![Visitors](https://komarev.com/ghpvc/?username=syed-ahmad-dilshad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/syed-ahmad-dilshad)
 
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-ahmad-dilshad)
-[![Website](https://img.shields.io/badge/Website-SMMpro.pk-brightgreen?style=flat)](https://smmpro.pk)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/923116100629)
-[![Email](https://img.shields.io/badge/Email-support@smmpro.pk-red?style=flat&logo=gmail)](mailto:support@smmpro.pk)
+## 🚀 Executive Summary
 
-🌐 **Driving Digital Transformation Across Platforms**  
-🚀 Specializing in ROI-focused strategies for SEO, Social Media, WhatsApp Business API, Web Development & Multi-Channel Advertising
+**Founder & CEO @ [SMMpro](https://smmpro.pk)**  
+*Digital Growth Architect | Full-Stack Marketing Technologist*
 
----
-
-## 🔧 Core Services  
-**Digital Growth Solutions**  
-▸ Telecommunications • Cybersecurity • Computer Networking  
-▸ Web Design & Development • SEO • Email Marketing  
-▸ Digital Advertising • IT Consulting • Social Media Management  
-
-**Platform Expertise**  
-```bash
-Google Ads | Meta Ads | LinkedIn Marketing | WhatsApp Business API
+```text
+🌐 Digital Transformation Leader | 📈 40% YOY Growth Architect
+💡 Tech Stack Innovator | 🤝 150+ Client Success Stories
+📱 WhatsApp API Pioneer | 🔐 Cybersecurity Advocate
 ```
 
 ---
 
-## 🎓 Education  
-**Muhammad Nawaz Sharif University of Engineering & Technology**  
-`Oct 2021 - Oct 2025` | BSc Computer Science (CGPA: 3.2/4.0)  
+## 🔗 Connect With Me
 
-**Misali Zakaria Girls Higher Secondary School**  
-`Dec 2019 - Dec 2021` | Intermediate Computer Science (Grade A)  
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-ahmad-dilshad)
+[![Email](https://img.shields.io/badge/Email-support%40smmpro.pk-%23EA4335?style=for-the-badge&logo=gmail)](mailto:support@smmpro.pk)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-%2325D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923116100629)
+[![Portfolio](https://img.shields.io/badge/Portfolio-SMMpro-%23000000?style=for-the-badge&logo=google-chrome)](https://smmpro.pk)
 
----
-
-## 🏆 Certifications & Accreditations  
-| Provider | Certification | Skills Gained |
-|----------|----------------|---------------|
-| ![Meta](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta) | WhatsApp Business Platform Developer | WhatsApp API Integration |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google) | Digital Marketing & E-commerce Specialization | Omnichannel Strategy |
-| ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot) | SEO Certification | Technical SEO Audits |
-| ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j) | Graph Database Professional | Data Relationship Mapping |
-| ![Semrush](https://img.shields.io/badge/Semrush-FFFFFF?style=flat&logo=semrush) | Advanced Link Building | SEO Authority Development |
-
-*Full certification portfolio available on [LinkedIn](https://www.linkedin.com/in/syed-ahmad-dilshad/details/certifications/)*
+</div>
 
 ---
 
-## 💼 Professional Journey  
+## 🛠️ Core Competencies
 
-### 🚀 SMMpro (Founder & CEO)  
-`May 2024 - Present` | Pakistan  
-- Scaled digital agency to 40% YOY revenue growth through multi-platform strategies  
-- Pioneer in WhatsApp Business API implementations for SMBs  
-- Architected client success framework blending SEO, Social Media & Email Marketing  
+<div align="center">
 
-### 🌐 Intelliman (Senior Web Developer)  
-`Nov 2024 - Present` | Remote  
-- Led development of high-conversion WordPress ecosystems  
-- Implemented SEO strategies increasing organic traffic by 58%  
-- Technical stack: React | Node.js | GraphQL | AWS  
-
-### 📈 KMY Academy (WordPress & SEO Lead)  
-`Oct 2024 - Present` | On-site  
-- Built LMS platform supporting 10,000+ global students  
-- Integrated Stripe/PayPal for Islamic education platform  
-- Drove 3x organic growth through content optimization  
-
----
-
-## 🛠 Technical Arsenal  
-**Marketing Stack**  
-```python
-SEO: "SEMrush, Ahrefs, Screaming Frog" 
-Ads: "Google Ads, Meta Ads Manager, LinkedIn Campaigns"
-Automation: "Zapier, Make.com, ActiveCampaign"
+```mermaid
+mindmap
+  root((Digital Growth))
+    Platform Expertise
+      WhatsApp Business API
+      Meta Ads Ecosystem
+      Google Marketing Platform
+    Technical Stack
+      React/Node.js
+      Python Automation
+      Graph Databases
+    Strategy
+      SEO Architecture
+      Conversion Optimization
+      Cybersecurity Integration
 ```
 
-**Development Toolkit**  
-```javascript
-Frontend: React, HTML5, CSS3, WordPress
-Backend: Node.js, Python, REST APIs
-DB: MySQL, Neo4j, MongoDB
+</div>
+
+---
+
+## 🏅 Key Achievements
+
+<div class="grid cards" align="center">
+
+| ![Growth](https://img.shields.io/badge/Revenue_Growth-40%25-%2300C853?style=for-the-badge) | ![Traffic](https://img.shields.io/badge/Organic_Traffic-58%25-%23007ACC?style=for-the-badge) | ![Students](https://img.shields.io/badge/Students_Served-10K%2B-%23FF6D00?style=for-the-badge) |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-ahmad-dilshad&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/syed-ahmad-dilshad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahmad-dilshad&layout=compact&theme=vision-friendly-dark)](https://github.com/syed-ahmad-dilshad)
+[![GitHub Streak](https://streak-stats.demolab.com?user=syed-ahmad-dilshad&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏢 Professional Timeline
+
+```mermaid
+timeline
+    title Career Journey
+    section Leadership
+    2024 : Founded SMMpro
+    2025 : Scaled to 40% YOY Growth
+    section Tech
+    2024 : Launched WhatsApp API Solutions
+    2025 : Developed AI-Powered SEO Toolkit
+    section Education
+    2025 : BSc Computer Science
+    2026 : Neo4j Certification
 ```
 
 ---
 
-📌 **Operational Base**  
-Basti Haji Block P/O Ismailabad Multan  
-📅 DOB: May 3, 2002  
+## 📦 Featured Projects
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://www.instagram.com/syed_ahmad_dilshad)
-[![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=flat&logo=facebook)](https://www.facebook.com/SMMProOfficial/)
+<div class="grid cards" align="center">
+
+| [![SMMpro Core](https://img.shields.io/badge/SMMpro_Core-Platform_Engine-2CA5E0?style=for-the-badge)](https://github.com/syed-ahmad-dilshad/smmpro-core) | [![SEO Toolkit](https://img.shields.io/badge/SEO_Toolkit-AI_Powered-green?style=for-the-badge)](https://github.com/syed-ahmad-dilshad/seo-toolkit) | [![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-Enterprise_Solution-25D366?style=for-the-badge)](https://github.com/syed-ahmad-dilshad/whatsapp-business-api) |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Enterprise Marketing Platform                                                                                                                           | AI-Driven SEO Optimization                                                                                                                       | Business Messaging Automation                                                                                                                                          |
+
+</div>
+
+---
+
+## 📚 Continuous Learning
+
+<div align="center">
+
+| ![Meta Certified](https://img.shields.io/badge/Meta-WhatsApp_API_Expert-FFFFFF?style=flat&logo=meta) | ![Google Certified](https://img.shields.io/badge/Google-Digital_Marketing-4285F4?style=flat&logo=google) | ![Neo4j Certified](https://img.shields.io/badge/Neo4j-Graph_DB_Pro-008CC1?style=flat&logo=neo4j) |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+
+</div>
+
+---
+
+## 📍 Operational Hub
+
+```geojson
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [71.5249, 30.1575]
+  },
+  "properties": {
+    "name": "SMMpro HQ",
+    "address": "Basti Haji Block P/O Ismailabad, Multan",
+    "contact": "+92 311 6100629"
+  }
+}
 ```
 
-This Markdown features:
-1. Dynamic badge links for key platforms
-2. Clean section organization with code-block visual elements
-3. Responsive design elements that work well on GitHub
-4. Skill visualization through shields.io badges
-5. Concise yet comprehensive professional narrative
-6. Technical stack visualization using code blocks
-7. Clear CTAs for profile visitors
+---
 
-To use:
-1. Copy to your README.md
-2. Add profile picture using `![Alt text](image-url)`
-3. Adjust metrics/achievements as needed
-4. Add any project embeds/CRUD operations if desired
+<div align="center">
+  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmad-dilshad&label=PROFILE%20VISITS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmad-dilshad)
+[![Repositories](https://badgen.net/github/repos/syed-ahmad-dilshad?color=purple&icon=github)](https://github.com/syed-ahmad-dilshad?tab=repositories)
+[![Stars](https://badgen.net/github/stars/syed-ahmad-dilshad?color=yellow&icon=github)](https://github.com/syed-ahmad-dilshad?tab=stars)
+
+</div>
