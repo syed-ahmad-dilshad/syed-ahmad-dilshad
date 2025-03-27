@@ -144,8 +144,9 @@ timeline
 
 <div align="center">
   
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmad-dilshad&label=PROFILE%20VISITS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmad-dilshad)
-[![Repositories](https://badgen.net/github/repos/syed-ahmad-dilshad?color=purple&icon=github)](https://github.com/syed-ahmad-dilshad?tab=repositories)
-[![Stars](https://badgen.net/github/stars/syed-ahmad-dilshad?color=yellow&icon=github)](https://github.com/syed-ahmad-dilshad?tab=stars)
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmad-dilshad&label=PROFILE%20VISITS&countColor=%23263759&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmad-dilshad)
+[![Repositories](https://img.shields.io/badge/Repositories-%23007EC6.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syed-ahmad-dilshad?tab=repositories)
+[![Stars](https://img.shields.io/badge/Total%20Stars-%23FFD700.svg?style=for-the-badge&logo=apachespark&logoColor=black)](https://github.com/syed-ahmad-dilshad?tab=stars)
+[![Followers](https://img.shields.io/badge/Followers-%2300C7B7.svg?style=for-the-badge&logo=rss&logoColor=white)](https://github.com/syed-ahmad-dilshad?tab=followers)
+  
 </div>
